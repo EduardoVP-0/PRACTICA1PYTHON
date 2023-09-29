@@ -1,4 +1,3 @@
-
 maxf = 3
 maxc = 5
 a = [[0.0] * maxc for _ in range(maxf)]
